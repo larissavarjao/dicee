@@ -18,7 +18,7 @@ You can see when you click the dicee, that will change to a random number. Image
 
 View of the app
 
-![view of app](images/app-view.png)
+![view of app](images/app-video.gif)
 
 ## Technologies
 
