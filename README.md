@@ -7,7 +7,6 @@ This is an app to practice flutter and put a random dicee when you click the cor
 ```shell
 cd dicee/
 flutter run
-
 ```
 
 Or do Fn + F5 if you're on mac notebook
